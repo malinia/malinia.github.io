@@ -1,4 +1,4 @@
-baseURL = 'https://malinia.github.io/'
+baseURL = "https://malinia.github.io/malinia.github.io/"
 languageCode = 'en-us'
 title = 'Lily B'
 theme = "PaperMod"
