@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Lily B</title>
+    <link>http://localhost:1313/malinia.github.io/posts/</link>
+    <description>Recent content in Posts on Lily B</description>
+    <generator>Hugo -- 0.147.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/malinia.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/malinia.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 08 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/malinia.github.io/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;-welcome-to-my-hugo-powered-website&#34;&gt;🚀 Welcome to My Hugo-Powered Website&lt;/h1&gt;
+&lt;p&gt;This is the &lt;strong&gt;front page&lt;/strong&gt; of my site, built with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and the &lt;strong&gt;PaperMod&lt;/strong&gt; theme.&lt;/p&gt;
+&lt;h2 id=&#34;-about-this-site&#34;&gt;📌 About This Site&lt;/h2&gt;
+&lt;p&gt;Welcome! Here, you’ll find:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📝 &lt;strong&gt;Articles&lt;/strong&gt; on tech, coding, and more&lt;/li&gt;
+&lt;li&gt;🎨 &lt;strong&gt;Projects &amp;amp; Portfolios&lt;/strong&gt; showcasing my work&lt;/li&gt;
+&lt;li&gt;🔗 &lt;strong&gt;Resources &amp;amp; Links&lt;/strong&gt; for learning and inspiration&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-featured-content&#34;&gt;🔥 Featured Content&lt;/h2&gt;
+&lt;p&gt;💡 Check out some of my latest posts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;posts/getting-started-hugo&#34;&gt;Getting Started with Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;posts/static-site-benefits&#34;&gt;Why I Love Static Site Generators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;posts/markdown-tips&#34;&gt;Markdown Tricks You Should Know&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-connect-with-me&#34;&gt;🌍 Connect With Me&lt;/h2&gt;
+&lt;p&gt;📫 Email: &lt;a href=&#34;mailto:your@email.com&#34;&gt;your@email.com&lt;/a&gt;
+🐦 Twitter: &lt;a href=&#34;https://twitter.com/yourhandle&#34;&gt;@yourhandle&lt;/a&gt;
+📂 GitHub: &lt;a href=&#34;https://github.com/yourgithub&#34;&gt;yourgithub&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
